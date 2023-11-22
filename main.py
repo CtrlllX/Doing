@@ -1,6 +1,6 @@
-def func2(x):
-    return x ** 3
+def func(x):
+    return x ** 2
 
 
-print(func2(4))
+print(func(4))
 

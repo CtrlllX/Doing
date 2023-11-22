@@ -6,7 +6,8 @@ def func2(x):
     print(x)
     return x ** 3
 
+
 print("Hello")
 print(func(4))
 print(func2(4))
-
+print("Hi")
